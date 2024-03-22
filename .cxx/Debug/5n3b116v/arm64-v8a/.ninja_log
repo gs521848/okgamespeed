@@ -1,0 +1,5 @@
+# ninja log v5
+3	658	7327110583290268	CMakeFiles/native-lib.dir/native-lib.cpp.o	65b3c3eb3d405e7b
+662	774	7327110584169645	E:/4399project/shadowhook/app/build/intermediates/cxx/Debug/5n3b116v/obj/arm64-v8a/libnative-lib.so	19d2e02982d00ce1
+0	1025	7327110586896731	CMakeFiles/shook.dir/shook.cpp.o	7a773c95e2b30a7b
+1025	1169	7327110587984620	E:/4399project/shadowhook/app/build/intermediates/cxx/Debug/5n3b116v/obj/arm64-v8a/libshook.so	5633ca529670a98d

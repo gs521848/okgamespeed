@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "E:\\4399project\\shadowhook\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\4399project\\shadowhook\\app\\.cxx\\RelWithDebInfo\\425f665o\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\4399project\\shadowhook\\app\\.cxx\\RelWithDebInfo\\425f665o\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "E:\\4399project\\shadowhook\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\425f665o\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "shook::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "shook",
+      "output": "E:\\4399project\\shadowhook\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\425f665o\\obj\\arm64-v8a\\libshook.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\.gradle\\caches\\transforms-4\\ea394b3e00e25a81d30ac6210202619f\\transformed\\shadowhook-1.0.9\\prefab\\modules\\shadowhook\\libs\\android.arm64-v8a\\libshadowhook.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

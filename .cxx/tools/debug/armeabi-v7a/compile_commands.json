@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/4399project/shadowhook/app/.cxx/Debug/5n3b116v/armeabi-v7a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dshook_EXPORTS -isystem C:/Users/user/.gradle/caches/transforms-4/ea394b3e00e25a81d30ac6210202619f/transformed/shadowhook-1.0.9/prefab/modules/shadowhook/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\shook.dir\\shook.cpp.o -c E:\\4399project\\shadowhook\\app\\src\\main\\cpp\\shook.cpp",
+  "file": "E:\\4399project\\shadowhook\\app\\src\\main\\cpp\\shook.cpp"
+},
+{
+  "directory": "E:/4399project/shadowhook/app/.cxx/Debug/5n3b116v/armeabi-v7a",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\4399project\\shadowhook\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\4399project\\shadowhook\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]
